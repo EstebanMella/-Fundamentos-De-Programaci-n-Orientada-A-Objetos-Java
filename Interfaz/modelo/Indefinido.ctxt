@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nombre\ rut\ edad\ horasn\ horasx\ valorh
+comment0.target=Indefinido(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getHorasx()
+comment2.params=horasx
+comment2.target=void\ setHorasx(int)
+comment3.params=
+comment3.target=int\ sueldoBruto()
+comment4.params=
+comment4.target=int\ sueldoLiquido()
+comment5.params=
+comment5.target=int\ impuesto()
+comment6.params=
+comment6.target=int\ afp()
+comment7.params=
+comment7.target=int\ isapre()
+numComments=8

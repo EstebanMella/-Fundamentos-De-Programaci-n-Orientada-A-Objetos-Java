@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=lado
+comment0.target=Cuadrado(double)
+comment1.params=
+comment1.target=double\ perimetro()
+comment2.params=
+comment2.target=double\ area()
+numComments=3

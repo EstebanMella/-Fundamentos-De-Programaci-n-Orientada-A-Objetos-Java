@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ManejadoraHashMap()
+comment1.params=
+comment1.target=java.util.HashMap\ getMane()
+comment2.params=trabajador
+comment2.target=void\ ingresarTrabajador(modelo.Trabajador)
+comment3.params=rut
+comment3.target=modelo.Trabajador\ buscarTrabajador(java.lang.String)
+comment4.params=rut
+comment4.target=void\ eliminarTrabajador(java.lang.String)
+comment5.params=
+comment5.target=java.util.HashMap\ trabajadoresConHorasExtra()
+comment6.params=
+comment6.target=int\ totalLucasParaTodo()
+comment7.params=
+comment7.target=int\ totalLucasParaAFP()
+comment8.params=rut\ nuevoValorHora
+comment8.target=void\ modificarValorHora(java.lang.String,\ int)
+numComments=9

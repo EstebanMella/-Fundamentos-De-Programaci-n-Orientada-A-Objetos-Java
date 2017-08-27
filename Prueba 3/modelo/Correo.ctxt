@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=destino\ remitente
+comment0.target=Correo(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getDestino()
+comment2.params=destino
+comment2.target=void\ setDestino(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getRemitente()
+comment4.params=remitente
+comment4.target=void\ setRemitente(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCodigo()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=int\ calculoUtilidad()
+numComments=8

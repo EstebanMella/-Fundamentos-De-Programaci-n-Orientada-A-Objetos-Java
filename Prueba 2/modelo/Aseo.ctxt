@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ palabraMasLarga()
+comment1.params=
+comment1.target=java.lang.String\ nickDeUsuario()
+comment2.params=nombre\ rut\ cargo\ turno
+comment2.target=Aseo(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getTurno()
+comment5.params=turno
+comment5.target=void\ setTurno(java.lang.String)
+numComments=6

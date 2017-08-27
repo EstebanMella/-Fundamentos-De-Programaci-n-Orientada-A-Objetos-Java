@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ dato()
+comment1.params=
+comment1.target=char\ datoChar()
+comment2.params=
+comment2.target=int\ datoInt()
+comment3.params=
+comment3.target=short\ datoShort()
+comment4.params=
+comment4.target=long\ datoLong()
+comment5.params=
+comment5.target=float\ datoFloat()
+comment6.params=
+comment6.target=double\ datoDouble()
+comment7.params=
+comment7.target=boolean\ datoBoolean()
+comment8.params=
+comment8.target=byte\ datoByte()
+numComments=9

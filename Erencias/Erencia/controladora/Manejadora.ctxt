@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cantidad
+comment0.target=Manejadora(int)
+comment1.params=
+comment1.target=modelo.FiguraGeometrica[]\ getMane()
+comment2.params=figura
+comment2.target=void\ ingresarFiguraGeometrica(modelo.FiguraGeometrica)
+numComments=3

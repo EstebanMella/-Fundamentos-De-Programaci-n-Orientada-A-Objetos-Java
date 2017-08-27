@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=remitente\ destino\ pesoGramo
+comment0.target=Encomienda(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getPesoGramo()
+comment2.params=pesoGramo
+comment2.target=void\ setPesoGramo(int)
+comment3.params=
+comment3.target=int\ calculoImpuesto()
+comment4.params=
+comment4.target=int\ costo()
+comment5.params=
+comment5.target=int\ calculoCosto()
+numComments=6

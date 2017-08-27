@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ nickDeUsuario()
+comment1.params=nombre\ rut\ cargo\ empresa
+comment1.target=Guardia(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getEmpresa()
+comment4.params=empresa
+comment4.target=void\ setEmpresa(java.lang.String)
+numComments=5

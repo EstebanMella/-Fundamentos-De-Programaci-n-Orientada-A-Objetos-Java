@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre\ rut\ edad\ horasn\ valorh\ porcentajeBono
+comment0.target=PlazoFijo(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ double)
+comment1.params=
+comment1.target=double\ getPorcentajeBono()
+comment2.params=porcentajeBono
+comment2.target=void\ setPorcentajeBono(double)
+comment3.params=
+comment3.target=int\ sueldoBruto()
+comment4.params=
+comment4.target=int\ sueldoLiquido()
+comment5.params=
+comment5.target=int\ impuesto()
+numComments=6

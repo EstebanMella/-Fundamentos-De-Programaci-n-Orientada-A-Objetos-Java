@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=remitente\ destino\ tipoEnvioCarta
+comment0.target=Carta(java.lang.String,\ java.lang.String,\ char)
+comment1.params=
+comment1.target=int\ costo()
+comment2.params=
+comment2.target=int\ getTipoEnvioCarta()
+comment3.params=tipoEnvioCarta
+comment3.target=void\ tipoEnvioCarta(char)
+comment4.params=
+comment4.target=int\ calculoImpuesto()
+comment5.params=
+comment5.target=int\ calculoCosto()
+numComments=6

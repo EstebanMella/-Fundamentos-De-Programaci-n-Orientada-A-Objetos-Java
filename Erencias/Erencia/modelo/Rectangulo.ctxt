@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=lado1\ lado2
+comment0.target=Rectangulo(double,\ double)
+comment1.params=
+comment1.target=double\ getLado2()
+comment2.params=lado2
+comment2.target=void\ setLado2(double)
+comment3.params=
+comment3.target=double\ perimetro()
+comment4.params=
+comment4.target=double\ area()
+numComments=5

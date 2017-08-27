@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nombre\ rut\ edad\ horasn\ valorh
+comment0.target=Dependiente(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getHorasn()
+comment2.params=horasn
+comment2.target=void\ setHorasn(int)
+comment3.params=
+comment3.target=int\ getValorh()
+comment4.params=valorh
+comment4.target=void\ setValorh(int)
+comment5.params=
+comment5.target=int\ sueldoBruto()
+comment6.params=
+comment6.target=int\ afp()
+comment7.params=
+comment7.target=int\ isapre()
+numComments=8
